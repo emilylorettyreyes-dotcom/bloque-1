@@ -1,0 +1,17 @@
+.jugos{
+    background-color: rgb(229, 229, 188);
+}
+.desayunos{
+    background-color: burlywood;
+}
+.postres{
+    background-color: rgb(143, 125, 102);
+}
+.precios{
+    background-color: rgb(152, 158, 113);
+}
+#footer{
+    background-color: darkslategray;
+    color:azure;
+    text-align: center;
+}
